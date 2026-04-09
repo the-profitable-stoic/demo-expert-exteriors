@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Expert Exteriors",
+    "phone": "+13163025137",
+    "category": "siding installer",
+    "city": "Wichita",
+    "state": "KS"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Wichita's Expert Siding Installers",
+      "heroSubline": "Protect your home with durable, beautiful siding. Expert Exteriors delivers quality craftsmanship and lasting value in Wichita and surrounding areas.",
+      "aboutTitle": "Built on Integrity, Driven by Quality",
+      "aboutText": [
+        "Expert Exteriors started with a simple goal: to provide Wichita homeowners with reliable siding solutions they can trust. We saw a need for contractors who prioritize quality over shortcuts, and who treat every home as if it were their own. That's the principle we were founded on, and it's what drives us today.",
+        "Our approach is straightforward: listen to our clients, understand their needs, and deliver exceptional workmanship. We use only premium materials and proven installation techniques to ensure your siding stands up to Kansas weather. We're not just installing siding; we're building lasting protection for your home.",
+        "We're proud to be a part of the Wichita community. From College Hill to Riverside, we've worked on homes throughout the area, improving their curb appeal and protecting them from the elements. We're committed to providing honest, reliable service and building relationships that last."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our team of experienced installers ensures precise and secure siding installation for optimal performance."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only top-quality siding materials that offer superior durability and weather resistance."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges Wichita homes face and tailor our solutions accordingly."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "From initial consultation to final inspection, we provide clear communication and dependable service."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation quote from Wichita's siding experts. Call us now!"
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding installation for Wichita homes.",
+        "description": "Vinyl siding remains a popular choice for Wichita homeowners due to its affordability, durability, and ease of maintenance. Expert Exteriors provides expert vinyl siding installation services, ensuring a seamless and weather-resistant finish. We work with a wide range of vinyl siding styles and colors to match your home's aesthetic and your personal preferences. From traditional lap siding to vertical panels, we have the expertise to handle any vinyl siding project.\n\nOur vinyl siding installation process is thorough and precise. We start with a detailed inspection of your home's exterior to identify any potential issues. We then prepare the surface by removing old siding and repairing any damaged areas. Our expert installers carefully install the new vinyl siding, ensuring proper alignment and secure attachment. We pay close attention to detail, ensuring that all seams and joints are properly sealed to prevent moisture intrusion.\n\nWithstand Wichita's extreme temperatures and protect your home with our expert vinyl siding installation services. We guarantee quality workmanship and lasting results. We also offer a variety of trim and accessories to complete your vinyl siding project and enhance your home's curb appeal. We'll help you select the perfect siding to increase the value and longevity of your home.",
+        "process": [
+          "Step 1: Initial consultation and home inspection",
+          "Step 2: Removal of existing siding and surface preparation",
+          "Step 3: Precise installation of vinyl siding panels",
+          "Step 4: Sealing of seams and joints for weather resistance"
+        ],
+        "benefits": [
+          "Affordable siding option",
+          "Low maintenance and easy to clean",
+          "Wide variety of styles and colors",
+          "Increased curb appeal and home value"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in Wichita's climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 20-30 years in Wichita's climate. We use high-quality materials and installation techniques to ensure longevity."
+          },
+          {
+            "question": "Is vinyl siding energy efficient?",
+            "answer": "Vinyl siding provides some insulation value, but it can be enhanced with the addition of insulation underneath. This can help reduce energy costs and improve your home's comfort."
+          },
+          {
+            "question": "What maintenance is required for vinyl siding?",
+            "answer": "Vinyl siding requires minimal maintenance. Regular cleaning with a garden hose and mild detergent is typically sufficient to keep it looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and fire-resistant fiber cement siding for Wichita homes.",
+        "description": "Fiber cement siding is a durable and fire-resistant option that offers the look of natural wood without the maintenance. Expert Exteriors specializes in fiber cement siding installation, providing Wichita homeowners with a long-lasting and beautiful siding solution. We install James Hardie siding, the industry leader in fiber cement technology.\n\nOur fiber cement siding installation process begins with a thorough assessment of your home's exterior. We then carefully remove any existing siding and prepare the surface for the new installation. We use specialized tools and techniques to ensure precise cutting and fitting of the fiber cement planks. Our team pays close attention to detail, ensuring that all seams and joints are properly sealed and that the siding is securely attached to your home.\n\nFiber cement siding is known for its exceptional durability and resistance to fire, pests, and rot. It can withstand Wichita's harsh weather conditions, including extreme temperatures and strong winds. It also comes in a variety of styles and colors to match your home's architectural style. Choose fiber cement to protect your home from hail and high wind.",
+        "process": [
+          "Step 1: Detailed assessment of your home's exterior",
+          "Step 2: Removal of old siding and surface preparation",
+          "Step 3: Precise cutting and fitting of fiber cement planks",
+          "Step 4: Sealing of seams and joints for weather protection"
+        ],
+        "benefits": [
+          "Exceptional durability and fire resistance",
+          "Low maintenance and long-lasting",
+          "Resistant to pests and rot",
+          "Variety of styles and colors to choose from"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last for 50 years or more with proper installation and maintenance. It is a durable and long-lasting siding option for Wichita homes."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Fiber cement siding is typically more expensive than vinyl siding, but it offers superior durability and longevity. It is a worthwhile investment for homeowners seeking a long-term siding solution."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-primed and can be painted to match your home's color scheme. It requires less frequent painting than wood siding."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair",
+        "shortDescription": "Expert siding repair services to protect your Wichita home from the elements.",
+        "description": "Damaged siding can compromise your home's protection and curb appeal. Expert Exteriors offers comprehensive siding repair services to address a wide range of issues, from cracked or missing panels to water damage and rot. We understand the importance of prompt and effective siding repairs to prevent further damage and maintain your home's value.\n\nOur siding repair process begins with a thorough inspection of the affected area. We identify the cause of the damage and recommend the most appropriate repair solution. We use high-quality materials and proven techniques to ensure that your siding is restored to its original condition. We can repair all types of siding, including vinyl, fiber cement, wood, and metal.\n\nFrom small cracks and holes to extensive water damage, we have the expertise to handle any siding repair project. We work quickly and efficiently to minimize disruption to your home and family. We'll get your siding back in shape before the next Kansas storm hits. Don't let damaged siding compromise your home's protection. Contact Expert Exteriors for prompt and reliable siding repair services.",
+        "process": [
+          "Step 1: Thorough inspection of the damaged area",
+          "Step 2: Identification of the cause of the damage",
+          "Step 3: Recommendation of the most appropriate repair solution",
+          "Step 4: Use of high-quality materials and proven techniques"
+        ],
+        "benefits": [
+          "Prompt and effective repairs",
+          "Protection from further damage",
+          "Maintained curb appeal and home value",
+          "Extended lifespan of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Signs of siding damage include cracks, holes, missing panels, water stains, and rot. If you notice any of these issues, it's important to contact a siding professional for an inspection."
+          },
+          {
+            "question": "Can I repair siding myself?",
+            "answer": "While some minor siding repairs can be done yourself, it's generally best to hire a professional for more extensive damage. Improper repairs can lead to further damage and water intrusion."
+          },
+          {
+            "question": "How much does siding repair cost?",
+            "answer": "The cost of siding repair varies depending on the extent of the damage and the type of siding. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Upgrade your Wichita home with new, durable siding.",
+        "description": "When siding is severely damaged, outdated, or no longer providing adequate protection, siding replacement is the best solution. Expert Exteriors offers comprehensive siding replacement services to transform your home's appearance and protect it from the elements. We work with a wide range of siding materials and styles to match your aesthetic preferences and budget. From classic vinyl siding to durable fiber cement, we have the expertise to handle any siding replacement project.\n\nOur siding replacement process begins with a detailed consultation to discuss your needs and preferences. We then remove your old siding and prepare the surface for the new installation. Our team of experienced installers carefully installs the new siding, ensuring proper alignment, secure attachment, and weather-tight seals. We pay close attention to detail, ensuring that your new siding looks beautiful and performs flawlessly.\n\nReplacing your siding can significantly improve your home's curb appeal, energy efficiency, and value. It's an investment that will benefit you for years to come. Upgrade your home with new, durable siding from Expert Exteriors. We'll help you select the perfect siding to enhance your home's beauty and protection.",
+        "process": [
+          "Step 1: Detailed consultation to discuss your needs",
+          "Step 2: Removal of old siding and surface preparation",
+          "Step 3: Careful installation of the new siding",
+          "Step 4: Weather-tight seals and flawless finish"
+        ],
+        "benefits": [
+          "Improved curb appeal and home value",
+          "Increased energy efficiency",
+          "Enhanced protection from the elements",
+          "Modernized home appearance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need siding replacement?",
+            "answer": "Signs that you may need siding replacement include widespread damage, rot, fading, and outdated appearance. If your siding is no longer providing adequate protection or is detracting from your home's curb appeal, it's time to consider replacement."
+          },
+          {
+            "question": "What are the benefits of replacing my siding?",
+            "answer": "Replacing your siding can improve your home's curb appeal, energy efficiency, and value. It can also protect your home from the elements and prevent further damage."
+          },
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of siding replacement depends on the size of your home and the type of siding being installed. We will provide you with a timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia",
+        "name": "Soffit and Fascia Installation & Repair",
+        "shortDescription": "Protect your roof and home with expertly installed or repaired soffit and fascia.",
+        "description": "Soffit and fascia are crucial components of your home's exterior, protecting your roof and preventing moisture damage. Expert Exteriors provides expert soffit and fascia installation and repair services to ensure the integrity of your Wichita home. We understand the importance of properly installed and maintained soffit and fascia to prevent costly repairs down the road.\n\nOur soffit and fascia services include installation of new soffit and fascia, repair of damaged or rotting soffit and fascia, and replacement of outdated or inefficient materials. We work with a variety of materials, including vinyl, aluminum, and wood, to match your home's style and budget. Our team of experienced installers ensures proper ventilation and weather protection.\n\nDamaged or missing soffit and fascia can lead to water damage, pest infestations, and reduced energy efficiency. Contact Expert Exteriors for prompt and reliable soffit and fascia services. We'll help you protect your home and prevent costly repairs.",
+        "process": [
+          "Step 1: Inspection of existing soffit and fascia",
+          "Step 2: Removal of damaged or outdated materials",
+          "Step 3: Installation of new soffit and fascia",
+          "Step 4: Proper ventilation and weather protection"
+        ],
+        "benefits": [
+          "Protection from water damage and pests",
+          "Improved ventilation and energy efficiency",
+          "Enhanced curb appeal and home value",
+          "Prevention of costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "What is soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof. Both protect your roof and prevent moisture damage."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Signs of damage include rot, water stains, pest infestations, and sagging. If you notice any of these issues, it's important to contact a professional for an inspection."
+          },
+          {
+            "question": "What are the benefits of replacing my soffit and fascia?",
+            "answer": "Replacing your soffit and fascia can improve your home's ventilation, energy efficiency, and curb appeal. It can also protect your home from water damage and pests."
+          }
+        ]
+      },
+      {
+        "slug": "siding-inspections",
+        "name": "Siding Inspections",
+        "shortDescription": "Comprehensive siding inspections to identify potential problems and protect your investment.",
+        "description": "Regular siding inspections are essential to identify potential problems early and prevent costly repairs down the road. Expert Exteriors offers comprehensive siding inspection services to Wichita homeowners. Our experienced inspectors will thoroughly examine your siding for signs of damage, wear, and tear, providing you with a detailed report of their findings.\n\nOur siding inspection process includes a visual inspection of your siding, soffit, and fascia. We look for cracks, holes, rot, water stains, and other signs of damage. We also check for proper installation and ventilation. Our detailed report will outline any issues we find and recommend the most appropriate course of action.\n\nA siding inspection can help you identify potential problems before they become major issues. It can also help you extend the lifespan of your siding and protect your investment. Schedule a siding inspection with Expert Exteriors today. Ensure your home is protected from the elements by identifying and addressing issues early on.",
+        "process": [
+          "Step 1: Visual inspection of siding, soffit, and fascia",
+          "Step 2: Identification of cracks, holes, rot, and water stains",
+          "Step 3: Check for proper installation and ventilation",
+          "Step 4: Detailed report with findings and recommendations"
+        ],
+        "benefits": [
+          "Early detection of potential problems",
+          "Prevention of costly repairs",
+          "Extended lifespan of your siding",
+          "Protection of your investment"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my siding inspected?",
+            "answer": "It's recommended to have your siding inspected at least once a year, especially after severe weather events."
+          },
+          {
+            "question": "What is included in a siding inspection?",
+            "answer": "A siding inspection includes a visual examination of your siding, soffit, and fascia to identify any signs of damage or wear."
+          },
+          {
+            "question": "How much does a siding inspection cost?",
+            "answer": "Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Expert Exteriors did a fantastic job installing new vinyl siding on our home in Riverside. The crew was professional, efficient, and the finished product looks amazing. Our home looks brand new!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David M.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some storm damage to our fiber cement siding, and Expert Exteriors was quick to respond and repair it. The repair was seamless, and you can't even tell there was any damage. Great service!",
+        "date": "2024-09-02"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Soffit and Fascia Repair",
+        "text": "Expert Exteriors replaced our rotting soffit and fascia, and we're so happy with the results. The work was done quickly and professionally, and we feel much better about protecting our home from water damage.",
+        "date": "2024-10-10"
+      },
+      {
+        "name": "John B.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "We chose Expert Exteriors for our James Hardie siding installation, and it was a great decision. The team was knowledgeable and professional, and the siding looks beautiful and will protect our home for years to come. Highly recommend!",
+        "date": "2025-01-20"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Siding Inspection",
+        "text": "We hired Expert Exteriors for a siding inspection before purchasing a home in College Hill. They were thorough and identified some potential issues that we were able to address before closing. A great investment!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Expert Exteriors installed vinyl siding on my house. They were on time, professional, and cleaned up after themselves. The siding looks great and I'm very happy with the work.",
+        "date": "2025-03-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Expert Exteriors | Wichita Siding",
+        "description": "Wichita's trusted siding installers. Vinyl, fiber cement, repairs & more. Free quotes. Protect your home!"
+      },
+      "about": {
+        "title": "About Expert Exteriors | Wichita Siding",
+        "description": "Learn about Expert Exteriors, Wichita's leading siding contractor. Quality, reliability, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Siding Services | Expert Exteriors Wichita",
+        "description": "Expert Exteriors offers vinyl, fiber cement siding, siding repair & replacement in Wichita. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Expert Exteriors | Wichita KS",
+        "description": "Contact Expert Exteriors for siding installation and repair in Wichita, KS. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Expert Exteriors Reviews | Wichita KS",
+        "description": "Read reviews for Expert Exteriors, Wichita's top siding contractor. See what our customers are saying!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Expert Exteriors Wichita",
+        "description": "Expert Exteriors provides siding services in Wichita and surrounding areas. Serving all your siding needs."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Wichita",
+        "slug": "wichita-ks",
+        "state": "KS",
+        "content": "Expert Exteriors is proud to offer our siding installation and repair services to the residents of Wichita, Kansas. As the largest city in the state, Wichita presents unique challenges and opportunities when it comes to exterior home improvement. We understand the local climate and architectural styles, ensuring that your siding project is both beautiful and durable.\n\nOur team of experienced professionals is dedicated to providing top-quality workmanship and exceptional customer service. From initial consultation to final inspection, we'll work closely with you to ensure your complete satisfaction. We offer a wide variety of siding materials and styles to suit any taste and budget, and we are committed to using only the best products available.",
+        "localContext": "Wichita is known for its aviation industry and vibrant arts scene, contributing to a diverse range of architectural styles throughout the city.",
+        "nearbyAreas": [
+          "Andover",
+          "Derby",
+          "Haysville"
+        ]
+      },
+      {
+        "city": "Andover",
+        "slug": "andover-ks",
+        "state": "KS",
+        "content": "Expert Exteriors is delighted to provide siding services to the growing community of Andover, Kansas. Andover's commitment to quality living is reflected in its well-maintained homes, and we're here to help homeowners enhance their property's curb appeal and protection with our expert siding solutions.\n\nWe offer a comprehensive range of siding options, from classic vinyl to modern fiber cement, all installed with meticulous attention to detail. Our goal is to exceed your expectations and provide you with a siding solution that will last for years to come. We handle both new siding installation and siding repair projects in Andover.",
+        "localContext": "Andover is a family-friendly community known for its excellent schools and well-kept neighborhoods.",
+        "nearbyAreas": [
+          "Wichita",
+          "Augusta",
+          "Rose Hill"
+        ]
+      },
+      {
+        "city": "Derby",
+        "slug": "derby-ks",
+        "state": "KS",
+        "content": "Expert Exteriors extends its expert siding services to the residents of Derby, Kansas. As a thriving suburb of Wichita, Derby boasts a mix of established homes and new construction. We are familiar with the diverse architectural preferences in Derby and can provide tailored siding solutions to match your unique style.\n\nOur team is equipped to handle any siding project, large or small. We prioritize customer satisfaction and strive to make the siding installation process as smooth and stress-free as possible. We are fully licensed and insured, giving you peace of mind knowing that your home is in good hands.",
+        "localContext": "Derby is a growing community with a strong sense of community spirit and a commitment to quality of life.",
+        "nearbyAreas": [
+          "Wichita",
+          "Mulvane",
+          "Rose Hill"
+        ]
+      },
+      {
+        "city": "Haysville",
+        "slug": "haysville-ks",
+        "state": "KS",
+        "content": "Homeowners in Haysville, Kansas can rely on Expert Exteriors for all their siding needs. We're proud to offer our siding installation and repair services to this welcoming community just south of Wichita. We're familiar with the local building codes and climate conditions, ensuring that your siding project is compliant and built to last.\n\nWe are committed to providing exceptional value and quality workmanship. From helping you choose the right siding material to ensuring a flawless installation, we'll guide you through every step of the process. Our competitive pricing and financing options make it easier than ever to upgrade your home's exterior.",
+        "localContext": "Haysville is a close-knit community that values its small-town charm and strong sense of neighborliness.",
+        "nearbyAreas": [
+          "Wichita",
+          "Clearwater",
+          "Mulvane"
+        ]
+      },
+      {
+        "city": "Park City",
+        "slug": "park-city-ks",
+        "state": "KS",
+        "content": "Expert Exteriors is dedicated to serving the residents of Park City, Kansas, with top-notch siding services. Located just north of Wichita, Park City is a growing community with a mix of residential and commercial properties. We understand the unique needs of Park City homeowners and businesses and offer tailored siding solutions to meet their specific requirements.\n\nWe offer a wide array of siding materials and styles, from traditional vinyl to modern metal siding. Our experienced team can help you choose the perfect siding to enhance your property's appearance and protect it from the elements. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Park City is a vibrant community with a growing economy and a commitment to providing a high quality of life for its residents.",
+        "nearbyAreas": [
+          "Valley Center",
+          "Wichita",
+          "Bel Aire"
+        ]
+      },
+      {
+        "city": "Valley Center",
+        "slug": "valley-center-ks",
+        "state": "KS",
+        "content": "Expert Exteriors is pleased to extend our siding expertise to the residents of Valley Center, Kansas. Valley Center's diverse housing styles require specific siding solutions, and we're prepared to match the right siding type to your home's architecture.\n\nWe pride ourselves on delivering superior craftsmanship and exceptional customer service. Our team is committed to using only the highest quality materials and employing the latest installation techniques. We are fully licensed and insured, providing you with peace of mind knowing that your home is in safe hands.",
+        "localContext": "Valley Center is a friendly community with a strong agricultural heritage and a growing residential population.",
+        "nearbyAreas": [
+          "Park City",
+          "Wichita",
+          "Bentley"
+        ]
+      },
+      {
+        "city": "Maize",
+        "slug": "maize-ks",
+        "state": "KS",
+        "content": "Expert Exteriors proudly offers expert siding installation and repair services to the residents of Maize, Kansas. Maize is a growing suburb of Wichita, known for its excellent schools and family-friendly atmosphere. We understand the needs of Maize homeowners and offer a wide range of siding options to enhance their homes' curb appeal and protect them from the elements.\n\nOur team of experienced professionals is dedicated to providing exceptional workmanship and customer service. We work closely with our clients to understand their needs and preferences, and we strive to exceed their expectations on every project. From the initial consultation to the final inspection, we're committed to ensuring your complete satisfaction.",
+        "localContext": "Maize is a thriving community with a strong sense of community pride and a commitment to providing a high quality of life for its residents.",
+        "nearbyAreas": [
+          "Wichita",
+          "Goddard",
+          "Colwich"
+        ]
+      },
+      {
+        "city": "Goddard",
+        "slug": "goddard-ks",
+        "state": "KS",
+        "content": "Expert Exteriors is excited to bring our siding services to the community of Goddard, Kansas. Goddard's expanding residential areas need reliable siding solutions, and we deliver with quality and precision.\n\nWe offer a comprehensive range of siding options, from vinyl to fiber cement, all installed with meticulous attention to detail. Our goal is to exceed your expectations and provide you with a siding solution that will last for years to come. We handle both new siding installation and siding repair projects in Goddard.",
+        "localContext": "Goddard is a rapidly growing community with a focus on education and family-oriented activities.",
+        "nearbyAreas": [
+          "Wichita",
+          "Maize",
+          "Andale"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia": "/images/service-soffit-and-fascia.webp",
+      "siding-inspections": "/images/service-siding-inspections.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia": {
+        "src": "/images/service-soffit-and-fascia.webp",
+        "srcset": "/images/service-soffit-and-fascia-400w.webp 400w, /images/service-soffit-and-fascia-800w.webp 800w, /images/service-soffit-and-fascia-1200w.webp 1200w, /images/service-soffit-and-fascia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-inspections": {
+        "src": "/images/service-siding-inspections.webp",
+        "srcset": "/images/service-siding-inspections-400w.webp 400w, /images/service-siding-inspections-800w.webp 800w, /images/service-siding-inspections-1200w.webp 1200w, /images/service-siding-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
